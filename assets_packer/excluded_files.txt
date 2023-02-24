@@ -1,0 +1,3 @@
+../assets/run/gifs/
+../assets/run/separated/
+../assets/icons/png/
