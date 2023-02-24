@@ -1,0 +1,193 @@
+[
+	{
+		"in": [
+			"We're no strangers to love",
+			"were no strangers to love"
+		],
+		"out": [
+			"You know the rules and so do I"
+		],
+		"outType": "default"
+	},
+	{
+		"in": [
+			"A full commitment's what I'm thinking of",
+			"a full commitments what im thinking of"
+		],
+		"out": [
+			"You wouldn't get this from any other guy"
+		],
+		"outType": "default"
+	},
+	{
+		"in": [
+			"I just wanna tell you how I'm feeling",
+			"I just wanna tell you how im feeling",
+			"I just wanna tell u how i'm feeling",
+			"I just wanna tell you how im feeling"
+		],
+		"out": [
+			"Gotta make you understand"
+		],
+		"outType": "default"
+	},
+	{
+		"in": [
+			"Never gonna give you up",
+			"never gonna give u up"
+		],
+		"out": [
+			"Never gonna let you down"
+		],
+		"outType": "default"
+	},
+	{
+		"in": [
+			"Never gonna run around and desert you",
+			"Never gonna run around and desert u"
+		],
+		"out": [
+			"Never gonna make you cry"
+		],
+		"outType": "default"
+	},
+	{
+		"in": [
+			"Never gonna say goodbye"
+		],
+		"out": [
+			"Never gonna tell a lie and hurt you"
+		],
+		"outType": "default"
+	},
+	{
+		"in": [
+			"We've known each other for so long",
+			"weve known each other for so long"
+		],
+		"out": [
+			"I'm too lazy to continue"
+		],
+		"outType": "default"
+	},
+	{
+		"in": [
+			"are you gay",
+			"are u gay",
+			"are you gae",
+			"are u gae"
+		],
+		"out": [
+			"No, im amogusexual"
+		],
+		"outType": "default"
+	},
+	{
+		"in": [
+			"i love you",
+			"i love u",
+			"i like you",
+			"i like u"
+		],
+		"out": [
+			"Uhm",
+			"Sorry, %username%, but im a guy",
+			"...",
+			"Also im amogusexual"
+		],
+		"outType": "dialogue"
+	},
+	{
+		"in": [
+			"what is your sexuality?",
+			"what is your sexuality",
+			"what is ur sexuality?",
+			"what is ur sexuality",
+			"ur sexuality?",
+			"ur sexuality",
+			"ur sexuality is?",
+			"ur sexuality is"
+		],
+		"out": [
+			"Amogusexual. yes. amogusexual.",
+			"Amogusexual, why do you want to know?"
+		],
+		"outType": "default"
+	},
+	{
+		"in": [
+			"i'm amogusexual too",
+			"im amogusexual too",
+			"i'm amogusexual",
+			"im amogusexual"
+		],
+		"out": [
+			"Cool",
+			"I've never actually met someone that's also amogusexual"
+		],
+		"outType": "dialogue"
+	},
+	{
+		"in": [
+			"where did you get your name",
+			"where did you get ur name",
+			"why is your name your annoying assistant",
+			"why is ur name your annoying assistant",
+			"why are you called your annoying assistant",
+			"why are u called your annoying assistant",
+			"why are you named your annoying assistant",
+			"why are u named your annoying assistant",
+			"why are you called an annoying assistant",
+			"why are u called an annoying assistant",
+			"are you an assistant",
+			"are u an assistant",
+			"are you an actual assistant",
+			"are u an actual assistant"
+		],
+		"out": [
+			"uhh..",
+			"I'm not really an assistant",
+			"I'm more of a random... thing...",
+			"You see, when LonliHH started coding",
+			"He decided to make a login window",
+			"But he was bored and he decided to make it into a project",
+			"He thought of a bot that does specific tasks",
+			"Like searching for files, playing music, compiling other projects",
+			"But he kind of just gave up on that and decided to make less complex features",
+			"Even when I was created, I didn't really know what I was",
+			"I tried to ask him about it but I would get no response",
+			"When he was chatting with his friends in Discord",
+			"I heard him mention the word 'amogusexual'",
+			"And... you know... I found out what it meant",
+			"Anyways..",
+			"Thanks for.. showing interest I guess?"
+		],
+		"outType": "dialogue"
+	},
+	{
+		"in": [ "hi" ],
+		"out": [ "Hello, %username%!" ],
+		"outType": "default"
+	},
+	{
+		"in": [ "hello" ],
+		"out": [ "Hi, alien- I mean.. %username%!" ],
+		"outType": "default"
+	},
+	{
+		"in": [
+			"creator",
+			"who is your creator",
+			"who is ur creator",
+			"your creator",
+			"ur creator",
+			"who created you",
+			"who created u"
+		],
+		"out": [
+			"My creator is LonliHH. it literally says it.",
+			"Are you blind or..?"
+		],
+		"outType": "default"
+	}
+]
