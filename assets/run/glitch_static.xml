@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="glitch_static.png">
+	<SubTexture name="glitch0000" x="0" y="0" width="500" height="500"/>
+	<SubTexture name="glitch0001" x="500" y="0" width="500" height="500"/>
+	<SubTexture name="glitch0002" x="1000" y="0" width="500" height="500"/>
+	<SubTexture name="glitch0003" x="0" y="500" width="500" height="500"/>
+	<SubTexture name="glitch0004" x="500" y="500" width="500" height="500"/>
+	<SubTexture name="glitch0005" x="1000" y="500" width="500" height="500"/>
+	<SubTexture name="glitch0006" x="0" y="1000" width="500" height="500"/>
+	<SubTexture name="glitch0007" x="500" y="1000" width="500" height="500"/>
+	<SubTexture name="glitch0008" x="1000" y="1000" width="500" height="500"/>
+	<SubTexture name="glitch0009" x="1500" y="0" width="500" height="500"/>
+	<SubTexture name="glitch0010" x="1500" y="500" width="500" height="500"/>
+	<SubTexture name="glitch0011" x="1500" y="1000" width="500" height="500"/>
+	<SubTexture name="glitch0012" x="0" y="1500" width="500" height="500"/>
+	<SubTexture name="glitch0013" x="500" y="1500" width="500" height="500"/>
+</TextureAtlas>

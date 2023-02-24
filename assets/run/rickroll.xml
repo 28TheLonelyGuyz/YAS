@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="rickroll.png">
+	<SubTexture name="lmao0000" x="0" y="0" width="500" height="500"/>
+	<SubTexture name="lmao0001" x="500" y="0" width="500" height="500"/>
+	<SubTexture name="lmao0002" x="1000" y="0" width="500" height="500"/>
+	<SubTexture name="lmao0003" x="1500" y="0" width="500" height="500"/>
+	<SubTexture name="lmao0004" x="0" y="500" width="500" height="500"/>
+	<SubTexture name="lmao0005" x="500" y="500" width="500" height="500"/>
+	<SubTexture name="lmao0006" x="1000" y="500" width="500" height="500"/>
+	<SubTexture name="lmao0007" x="1500" y="500" width="500" height="500"/>
+	<SubTexture name="lmao0008" x="0" y="1000" width="500" height="500"/>
+	<SubTexture name="lmao0009" x="500" y="1000" width="500" height="500"/>
+	<SubTexture name="lmao0010" x="1000" y="1000" width="500" height="500"/>
+	<SubTexture name="lmao0011" x="1500" y="1000" width="500" height="500"/>
+	<SubTexture name="lmao0012" x="0" y="1500" width="500" height="500"/>
+	<SubTexture name="lmao0013" x="500" y="1500" width="500" height="500"/>
+	<SubTexture name="lmao0014" x="1000" y="1500" width="500" height="500"/>
+	<SubTexture name="lmao0015" x="1500" y="1500" width="500" height="500"/>
+	<SubTexture name="lmao0016" x="2000" y="0" width="500" height="500"/>
+	<SubTexture name="lmao0017" x="2000" y="500" width="500" height="500"/>
+	<SubTexture name="lmao0018" x="2000" y="1000" width="500" height="500"/>
+	<SubTexture name="lmao0019" x="2000" y="1500" width="500" height="500"/>
+	<SubTexture name="lmao0020" x="0" y="2000" width="500" height="500"/>
+	<SubTexture name="lmao0021" x="500" y="2000" width="500" height="500"/>
+	<SubTexture name="lmao0022" x="1000" y="2000" width="500" height="500"/>
+</TextureAtlas>
