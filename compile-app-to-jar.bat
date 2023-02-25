@@ -23,7 +23,7 @@ echo.>> %manifest_filename%
 
 :: Packing and compiling all class files
 cd src
-jar -cvfm "../app_bin/%filename%.jar" "../%manifest_filename%" lonli/*.class lonli/*.txt lonli/lua/*.class lonli/lua/*.txt lonli/modsupport/*.class lonli/modsupport/*.txt copyfiles/*.class copyfiles/*.txt lonliengine/*.class lonliengine/*.txt org/luaj/* org/json/* *.class
+jar -cvfm "../app_bin/%filename%.jar" "../%manifest_filename%" lonli/*.class lonli/lua/*.class lonli/modsupport/*.class copyfiles/*.class copyfiles/*.txt lonliengine/*.class lonliengine/*.txt org/luaj/* org/json/* *.class
 
 :: Finishing stuff
 cd ..
